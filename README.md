@@ -1,8 +1,22 @@
-# SeeAble Support Site
+# SeeForMe / SeeAble Support
 
-Public support and privacy pages for the SeeAble iOS app.
+Legal and support pages for the SeeForMe mobile app (iOS listing: SeeAble).
 
-- Support: https://selmanfettahoglu.github.io/seeable-support/
-- Privacy: https://selmanfettahoglu.github.io/seeable-support/privacy.html
+## Live site
 
-Before App Store submission, replace `REPLACE_WITH_SUPPORT_EMAIL` in `index.html` and `privacy.html` with your real support email.
+- Support home: https://selmanfettahoglu.github.io/seeable-support/
+- Privacy Policy: https://selmanfettahoglu.github.io/seeable-support/privacy.html
+- Terms of Use: https://selmanfettahoglu.github.io/seeable-support/terms.html
+- Full PDF (9 pages): https://selmanfettahoglu.github.io/seeable-support/SeeForMe_Privacy_Policy_and_Terms_of_Use.pdf
+
+## Source
+
+Content taken from the official document:
+
+`SEEFORME PRIVACY POLICY & TERMS of USE.pdf`
+
+Effective date: July 15, 2026  
+Developer: Busra Fettahoglu  
+Package: `com.busrafettahoglu.seeforme`
+
+Replace bracketed placeholders such as `[INSERT WORKING EMAIL ADDRESS]` before App Store submission.

@@ -1,9 +1,8 @@
-# SeeForMe legal document
+# SeeAble Support Site
 
-This site hosts only the official PDF:
+Public Privacy Policy and Terms of Use for the SeeAble iOS app.
 
-**SeeForMe Privacy Policy & Terms of Use** (9 pages)
+- Support / Privacy: https://selmanfettahoglu.github.io/seeable-support/
+- PDF: https://selmanfettahoglu.github.io/seeable-support/SeeForMe_Privacy_Policy_and_Terms_of_Use.pdf
 
-- https://selmanfettahoglu.github.io/seeable-support/SeeForMe_Privacy_Policy_and_Terms_of_Use.pdf
-
-Source file from the publisher: `SEEFORME PRIVACY POLICY & TERMS of USE.pdf`
+Contact: ms.busrafettahoglu@gmail.com
